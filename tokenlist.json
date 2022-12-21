@@ -14,6 +14,27 @@
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },{
+      "chainId": 5,
+      "address": "0x88C1Bf27DC8C7408DE3443234650e460e143ECc7",
+      "name": "A",
+      "symbol": "A",
+      "decimals": 18,
+      "logoURI": "https://chexiangbao.oss-cn-chengdu.aliyuncs.com/imgData/imgData/back1.png"
+    },{
+      "chainId": 5,
+      "address": "0xAc126EEbCC410C87eEDA7008Ca6261C7Affc85e2",
+      "name": "B",
+      "symbol": "B",
+      "decimals": 18,
+      "logoURI": "https://chexiangbao.oss-cn-chengdu.aliyuncs.com/imgData/imgData/bohai.png"
+    },{
+      "chainId": 5,
+      "address": "0xA6543d6C3e2688784288AA295497431EE6B2299a",
+      "name": "C",
+      "symbol": "C",
+      "decimals": 18,
+      "logoURI": "https://chexiangbao.oss-cn-chengdu.aliyuncs.com/imgData/imgData/call.png"
     }
   ],
   "version": {
